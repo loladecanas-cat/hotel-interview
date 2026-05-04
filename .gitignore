@@ -1,0 +1,19 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+node_modules/
+frontend/dist/
+
+# Playwright
+test-results/
+playwright-report/
+dist-tests/
+
+# Misc
+.DS_Store
+*.log
+nohup.out
